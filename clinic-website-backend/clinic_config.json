@@ -1,0 +1,15 @@
+{
+  "_help": "Fill in the doctor details below. Leave a value empty to keep the placeholder text on the site. Changes appear on the next page load - no restart needed. See README.md.",
+  "doctor_name": "",
+  "specialty": "",
+  "years_experience": "",
+  "qualifications": "",
+  "postgraduate_qualification": "",
+  "registration_number": "",
+  "memberships": "",
+  "fellowships": "",
+  "awards_and_research": "",
+  "hide_placeholder_notes": false,
+  "show_sample_reviews": true,
+  "closed_dates": []
+}
