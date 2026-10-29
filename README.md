@@ -32,19 +32,6 @@
 > [!NOTE]
 > This repository contains the **front-end** (public website + staff dashboard). The booking features talk to a small REST backend described in the [API contract](#-backend-api-contract). Everything else works as a plain static site with no build step.
 
-## 📸 Preview
-
-<!-- Add your screenshots to /docs/screenshots and keep these file names, or edit the paths. -->
-
-| Home / Hero | Appointment booking |
-|:---:|:---:|
-| ![Home](docs/screenshots/home.png) | ![Booking](docs/screenshots/booking.png) |
-| **AI assistant (EN / हिं / मरा)** | **Staff dashboard** |
-| ![Chatbot](docs/screenshots/chatbot.png) | ![Admin](docs/screenshots/admin.png) |
-
-> 💡 **Live demo:** after enabling GitHub Pages, your site will be at `https://YOUR-USERNAME.github.io/YOUR-REPO/`
-
----
 
 ## ✨ Features
 
